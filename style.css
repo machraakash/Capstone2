@@ -1,0 +1,55 @@
+#akash-image {
+  border-radius: 20px;
+  float: right;
+}
+
+body {
+  background-color: #222831 !important;
+}
+
+.hero {
+  background-color: #393e46;
+  color: #eeeeee;
+}
+
+#Hello-text {
+  color: #eeeeee !important;
+}
+
+.pb-2 {
+  display: flex;
+  justify-content: center;
+}
+
+#hobby-container {
+  padding-top: 50px;
+  margin-left: 8%;
+}
+
+#blue-background {
+  background-color: #00adb5;
+}
+
+.card-cover {
+  height: 550px;
+}
+
+.card-cover {
+  background-size: cover; /* Stretch the image to cover the container */
+  background-position: center; /* Center the image within the container */
+}
+
+.d-flex.flex-column.h-100.p-5.pb-3.text-white.text-shadow-1 {
+  -webkit-text-stroke: 0.5px #222831;
+}
+
+.capstone-footer{
+    background-color: #EEEEEE;
+    color: #eeeeee;
+
+}
+
+.nav-link.px-4.text-info-emphasis{
+    font-weight: 500;
+    font-size: 20px;
+}
